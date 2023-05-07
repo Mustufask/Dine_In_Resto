@@ -1,0 +1,77 @@
+html {
+    /* height: 100%; */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2f3035;
+    background: url(2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px
+}
+
+header {
+    height: 118px;
+    text-align: center;
+    color: white;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.37);
+    text-align: center;
+    padding: 25px 0;
+    
+}
+
+main {
+    height: 500px;
+    text-align: center;
+    padding: 80px 240px;
+    
+}
+
+footer p {
+    background-color: rgba(0, 0, 0, 0.445);
+    height: 40px;
+    color: white;
+    text-align: center;
+    lgvkb                      
+}
+
+h1 {
+    font-size: 85px;
+    font-family:cursive;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    font: 18px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+nav a {
+    padding: 0 25px;
+    font-size: large;
+}
+
+.map {
+    padding-bottom: 20px;
+}
+
